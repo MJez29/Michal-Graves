@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Box Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Bridge Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Explosives Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Rough Sprites" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Ladder Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Dirt Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Finished Sprites" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Checkpoint Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Python and Miscellaneous" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Platform Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Trench Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Watch Tower Images" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Word Files" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
